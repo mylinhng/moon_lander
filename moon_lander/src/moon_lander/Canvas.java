@@ -27,6 +27,7 @@ public abstract class Canvas extends JPanel implements KeyListener, MouseListene
     // Mouse states - Here are stored states for mouse keys - is it down or not.
     private static boolean[] mouseState = new boolean[3];
         
+ /****************************** Changes to test Git ******************************/
     
     public Canvas()
     {
